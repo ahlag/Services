@@ -5,7 +5,7 @@ CHANG YONG LIK
 （個人事業主のため、必要に応じて遅滞なく開示いたします）
 
 ## 事業者名（Business / Trade Name）
-エンジニアリングサポートサービス  
+CHANG YONG LIK 
 （機械学習エンジニア向けメンタリングおよびオンライン指導サービス）
 
 ---
@@ -18,7 +18,7 @@ CHANG YONG LIK
 ※日本語での対応が可能です。
 
 ## メールアドレス（Email Address）
-ahlag1993[アットマーク]yahoo.co.jp  
+ahlag1993@yahoo.co.jp  
 お問い合わせ: [こちら](mailto:ahlag1993@yahoo.co.jp)
 
 ---
@@ -30,7 +30,6 @@ CHANG YONG LIK
 
 ## 追加手数料（Additional Fees）
 なし  
-※インターネット接続費・通信費などはお客様のご負担となります。
 
 ---
 
